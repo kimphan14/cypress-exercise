@@ -1,0 +1,22 @@
+{
+  "name": "dir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimphan14/cypress-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimphan14/cypress-exercise/issues"
+  },
+  "homepage": "https://github.com/kimphan14/cypress-exercise#readme",
+  "devDependencies": {
+    "cypress": "^4.5.0"
+  }
+}
